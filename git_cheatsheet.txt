@@ -13,3 +13,6 @@ Commands related to a remote repository:
 git push or git push origin main (Both accomplish the same goal in this context)
 
 local --> staging --> commit (all ready in local) --> push to remote
+
+rmdir to remove all contents and directory
+
